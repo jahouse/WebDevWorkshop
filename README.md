@@ -1,2 +1,2 @@
 # WebDevWorkshop
-A repo for web development workshop
+A repo for a web development workshop
